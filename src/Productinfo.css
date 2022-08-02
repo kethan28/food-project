@@ -1,0 +1,30 @@
+.banner {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.bottomtags{
+
+    color:orange;
+    
+}
+
+.text{
+    display:inline
+}
+.text1{
+    display:inline
+}
+
+.button{
+    color: orange;
+}
+
+.minus{
+    color: orange;
+}
+
+.plus{
+    color: orange;
+}
